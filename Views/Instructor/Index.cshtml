@@ -1,0 +1,53 @@
+@model IEnumerable<ProyectoPrimerParcial.Models.Instructor>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Instructores de vuelo</h1>
+
+<p>
+    <a asp-action="Create">Crear Instructor</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NombreInstructor)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Apellido)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DNI)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LegajoVuelo)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NombreInstructor)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Apellido)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DNI)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LegajoVuelo)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.InstructorId">Editar</a> |
+                <a asp-action="Details" asp-route-id="@item.InstructorId">Detalle</a> |
+                <a asp-action="Delete" asp-route-id="@item.InstructorId">Eliminar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

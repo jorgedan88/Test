@@ -1,0 +1,48 @@
+@model ProyectoPrimerParcial.Models.Instructor
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Eliminar instructor</h1>
+
+<h3>Esta seguro que quiere eliminar este instructor?</h3>
+<div>
+    
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.NombreInstructor)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.NombreInstructor)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Apellido)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Apellido)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.DNI)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.DNI)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.LegajoVuelo)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.LegajoVuelo)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="InstructorId" />
+        <input type="submit" value="Eliminar instructor" class="btn btn-danger" />
+        <br>
+        <br> 
+
+        <a asp-action="Index">Menu principal</a>
+    </form>
+</div>

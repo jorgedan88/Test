@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ProyectoPrimerParcial2.props" />
+</Project>

@@ -1,0 +1,25 @@
+@model ProyectoPrimerParcial.Models.Aeronave
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Detalle de la aeronave</h1>
+
+<div>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TipoAeronave)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TipoAeronave)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.AeronaveId">Editar</a> 
+<br>
+<br>
+    <a asp-action="Index">Menu principal</a>
+</div>

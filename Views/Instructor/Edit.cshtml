@@ -1,0 +1,53 @@
+@model ProyectoPrimerParcial.Models.Instructor
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Editar instructor</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="InstructorId" />
+            <div class="form-group">
+                <label asp-for="NombreInstructor" class="control-label"></label>
+                <input asp-for="NombreInstructor" class="form-control" />
+                <span asp-validation-for="NombreInstructor" class="text-danger"></span>
+            </div>
+            <br>
+            <div class="form-group">
+                <label asp-for="Apellido" class="control-label"></label>
+                <input asp-for="Apellido" class="form-control" />
+                <span asp-validation-for="Apellido" class="text-danger"></span>
+            </div>
+            <br>
+            <div class="form-group">
+                <label asp-for="DNI" class="control-label"></label>
+                <input asp-for="DNI" class="form-control" />
+                <span asp-validation-for="DNI" class="text-danger"></span>
+            </div>
+            <br>
+            <div class="form-group">
+                <label asp-for="LegajoVuelo" class="control-label"></label>
+                <input asp-for="LegajoVuelo" class="form-control" />
+                <span asp-validation-for="LegajoVuelo" class="text-danger"></span>
+            </div>
+            <br>
+            <div class="form-group">
+                <input type="submit" value="Guardar cambios" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<br>
+<div>
+    <a asp-action="Index">Menu principal</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
