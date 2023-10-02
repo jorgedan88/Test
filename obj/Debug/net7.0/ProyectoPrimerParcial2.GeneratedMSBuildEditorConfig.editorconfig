@@ -5,81 +5,80 @@ build_property.UsingMicrosoftNETSdkWeb = true
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
-build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProyectoPrimerParcial2
 build_property.RootNamespace = ProyectoPrimerParcial2
-build_property.ProjectDir = C:\Users\olive\RepoIstea\ProyectoPrimerParcial\
-build_property.RazorLangVersion = 7.0
+build_property.ProjectDir = /home/jorge_linux/BodhiCarpetas/Desarrollo/Test/
+build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\olive\RepoIstea\ProyectoPrimerParcial
+build_property.MSBuildProjectDirectory = /home/jorge_linux/BodhiCarpetas/Desarrollo/Test
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/olive/RepoIstea/ProyectoPrimerParcial/Views/Aeronave/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWVyb25hdmVcQ3JlYXRlLmNzaHRtbA==
+[/home/jorge_linux/BodhiCarpetas/Desarrollo/Test/Views/Aeronave/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWVyb25hdmUvQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/olive/RepoIstea/ProyectoPrimerParcial/Views/Aeronave/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWVyb25hdmVcRGVsZXRlLmNzaHRtbA==
+[/home/jorge_linux/BodhiCarpetas/Desarrollo/Test/Views/Aeronave/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWVyb25hdmUvRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/olive/RepoIstea/ProyectoPrimerParcial/Views/Aeronave/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWVyb25hdmVcRGV0YWlscy5jc2h0bWw=
+[/home/jorge_linux/BodhiCarpetas/Desarrollo/Test/Views/Aeronave/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWVyb25hdmUvRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/olive/RepoIstea/ProyectoPrimerParcial/Views/Aeronave/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWVyb25hdmVcRWRpdC5jc2h0bWw=
+[/home/jorge_linux/BodhiCarpetas/Desarrollo/Test/Views/Aeronave/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWVyb25hdmUvRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/olive/RepoIstea/ProyectoPrimerParcial/Views/Aeronave/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWVyb25hdmVcSW5kZXguY3NodG1s
+[/home/jorge_linux/BodhiCarpetas/Desarrollo/Test/Views/Aeronave/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWVyb25hdmUvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/olive/RepoIstea/ProyectoPrimerParcial/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[/home/jorge_linux/BodhiCarpetas/Desarrollo/Test/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/olive/RepoIstea/ProyectoPrimerParcial/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[/home/jorge_linux/BodhiCarpetas/Desarrollo/Test/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/olive/RepoIstea/ProyectoPrimerParcial/Views/Instructor/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvclxDcmVhdGUuY3NodG1s
+[/home/jorge_linux/BodhiCarpetas/Desarrollo/Test/Views/Instructor/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW5zdHJ1Y3Rvci9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/olive/RepoIstea/ProyectoPrimerParcial/Views/Instructor/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvclxEZWxldGUuY3NodG1s
+[/home/jorge_linux/BodhiCarpetas/Desarrollo/Test/Views/Instructor/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW5zdHJ1Y3Rvci9EZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/olive/RepoIstea/ProyectoPrimerParcial/Views/Instructor/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvclxEZXRhaWxzLmNzaHRtbA==
+[/home/jorge_linux/BodhiCarpetas/Desarrollo/Test/Views/Instructor/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW5zdHJ1Y3Rvci9EZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/olive/RepoIstea/ProyectoPrimerParcial/Views/Instructor/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvclxFZGl0LmNzaHRtbA==
+[/home/jorge_linux/BodhiCarpetas/Desarrollo/Test/Views/Instructor/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW5zdHJ1Y3Rvci9FZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/olive/RepoIstea/ProyectoPrimerParcial/Views/Instructor/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvclxJbmRleC5jc2h0bWw=
+[/home/jorge_linux/BodhiCarpetas/Desarrollo/Test/Views/Instructor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW5zdHJ1Y3Rvci9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/olive/RepoIstea/ProyectoPrimerParcial/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+[/home/jorge_linux/BodhiCarpetas/Desarrollo/Test/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/olive/RepoIstea/ProyectoPrimerParcial/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[/home/jorge_linux/BodhiCarpetas/Desarrollo/Test/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/olive/RepoIstea/ProyectoPrimerParcial/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[/home/jorge_linux/BodhiCarpetas/Desarrollo/Test/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/olive/RepoIstea/ProyectoPrimerParcial/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+[/home/jorge_linux/BodhiCarpetas/Desarrollo/Test/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/olive/RepoIstea/ProyectoPrimerParcial/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-0j1gld9oo6
+[/home/jorge_linux/BodhiCarpetas/Desarrollo/Test/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-3kftgtmno7
