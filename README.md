@@ -8,7 +8,7 @@ En este repositorio se encuentra el proyecto correspondiente al primer parcial, 
 2. [Tecnologias](#technologies)
 3. [Instalacion](#installation)
 
-
+SE AGREGAN CAMBIOS EN EL README DEL PROYECTO
 ## Informacion General 
 ***
 La aplicación perteneciente al aeroclub del río de la plata tiene como objetivo la gestión de la nomina de instructores de vuelo desde sus datos personales hasta la asignación de aeronaves a los mismos.  El proyecto se encuentra aun en proceso de desarrollo llegando hasta la conexión del mismo su propia base de datos. 
